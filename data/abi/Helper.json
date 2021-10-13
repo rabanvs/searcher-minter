@@ -1,0 +1,9 @@
+[
+  {
+    "inputs": [],
+    "name": "help",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]

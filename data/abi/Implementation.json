@@ -1,0 +1,9 @@
+[
+  {
+    "inputs": [],
+    "name": "shoot",
+    "outputs": [],
+    "stateMutability": "payable",
+    "type": "function"
+  }
+]
